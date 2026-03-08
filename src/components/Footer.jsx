@@ -26,7 +26,7 @@ export default function Footer({ t }) {
           display: "inline-block",
         }}
       />
-      <span> — as-morat/dev · Bangladesh 🇧🇩</span>
+      <span> — Rafat Ash · Bangladesh 🇧🇩</span>
     </footer>
   );
 }
